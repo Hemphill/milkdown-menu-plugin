@@ -1,0 +1,16 @@
+node_modules
+*.log
+*.local
+/test-results/
+/playwright-report/
+/playwright/.cache/
+
+# macOS files
+.DS_Store
+
+# Text editor files
+.idea
+
+# Explicitly ignored files
+*--ignore
+**/*--ignore
