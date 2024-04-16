@@ -3,7 +3,7 @@ node_modules
 *.local
 /test-results/
 /playwright-report/
-/playwright/.cache/
+/0/.cache/
 
 # macOS files
 .DS_Store
